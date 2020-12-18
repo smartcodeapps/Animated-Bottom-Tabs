@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AnimatedBottomTabs",
+    "name": "Animated Bottom Tabs using React navigation and Lottie JSON",
     "slug": "AnimatedBottomTabs",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is example of animated tabs than boring normal tabs. Full video is found on \"smart code apps\" youtube channel."
   }
 }
